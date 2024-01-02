@@ -1,0 +1,32 @@
+{
+	"name": "neat-theme",
+	"displayName": "Neat Theme",
+	"description": "A sleek black color theme inspired by the concept of neatness. ",
+	"version": "0.0.1",
+	"publisher": "mrnz",
+	"engines": {
+		"vscode": "^1.85.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Neat Theme",
+				"uiTheme": "hc-black",
+				"path": "./themes/Neat Theme-color-theme.json"
+			}
+		]
+	},
+	"galleryBanner": {
+		"color": "#000000",
+		"theme": "dark"
+	},
+	"icon": "images/mrnz icon.png",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": ""
+	}
+}
