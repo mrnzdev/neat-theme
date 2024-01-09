@@ -66,6 +66,11 @@
 		"merge.incomingContentBackground": "#1d1d1d",
 		"merge.commonHeaderBackground": "#1d1d1d",
 		"merge.commonContentBackground": "#1d1d1d",
+		"editorSuggestWidget.background": "#1d1d1d",
+		"editorSuggestWidget.border": "#434343",
+		"editorSuggestWidget.foreground": "#ffffff7f",
+		"editorSuggestWidget.highlightForeground": "#ffffff",
+		"editorSuggestWidget.selectedBackground": "#434343",
 	},
 	"tokenColors": [
 		{
