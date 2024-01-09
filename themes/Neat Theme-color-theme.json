@@ -56,6 +56,10 @@
 		"diffEditor.removedTextBackground": "#ff000010",
 		"diffEditor.removedTextBorder": "#00000000",
 		"diffEditor.border": "#000000",
+		"editorMarkerNavigation.background": "#000000",
+		"editorMarkerNavigationError.background": "#ff0000",
+		"editorMarkerNavigationWarning.background": "#ffff00",
+		"editorMarkerNavigationInfo.background": "#ffffff",
 	},
 	"tokenColors": [
 		{
