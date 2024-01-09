@@ -51,6 +51,11 @@
 		"editorGutter.foldingControlForeground": "#ffffff",
 		"editorCodeLens.foreground": "#ffffff7f",
 		"editorGroup.border": "#000000",
+		"diffEditor.insertedTextBackground": "#00ff0010",
+		"diffEditor.insertedTextBorder": "#00000000",
+		"diffEditor.removedTextBackground": "#ff000010",
+		"diffEditor.removedTextBorder": "#00000000",
+		"diffEditor.border": "#000000",
 	},
 	"tokenColors": [
 		{
