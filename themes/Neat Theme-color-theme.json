@@ -1,6 +1,11 @@
 {
 	"name": "Neat Theme",
 	"colors": {
+		"foreground": "#ffffff",
+		"focusBorder": "#000000",
+		"progressBar.background": "#ffffff",
+		"selection.background": "#1d1d1d",
+		"scrollbar.shadow": "#000000",
 		"editor.background": "#000000",
 		"editor.foreground": "#ffffff",
 		"editorLineNumber.foreground": "#ffffff",
@@ -87,7 +92,8 @@
 		"peekViewResult.selectionForeground": "#ffffff",
 		"peekViewTitle.background": "#1d1d1d",
 		"peekViewTitleDescription.foreground": "#ffffff",
-		"peekViewTitleLabel.foreground": "#ffffff",
+		"peekViewTitleLabel.foreground": "#ffffff"
+
 	},
 	"tokenColors": [
 		{
