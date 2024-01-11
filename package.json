@@ -15,7 +15,7 @@
 			{
 				"label": "Neat Theme",
 				"uiTheme": "hc-black",
-				"path": "./themes/Neat Theme-color-theme.json"
+				"path": "./themes/Neat-theme-color-theme"
 			}
 		]
 	},
@@ -23,7 +23,7 @@
 		"color": "#000000",
 		"theme": "dark"
 	},
-	"icon": "images/mrnz icon.png",
+	"icon": "images/mrnz-icon.png",
 	"license": "MIT",
 	"repository": {
 		"type": "git",
