@@ -14,7 +14,7 @@
 		"themes": [
 			{
 				"label": "Neat Theme",
-				"uiTheme": "hc-black",
+				"uiTheme": "vs-dark",
 				"path": "./themes/Neat-theme-color-theme"
 			}
 		]
