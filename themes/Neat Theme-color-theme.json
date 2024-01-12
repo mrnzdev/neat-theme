@@ -33,6 +33,13 @@
 		"listFilterWidget.background": "#000000",
 		"listFilterWidget.outline": "#ffffff7f",
 		"listFilterWidget.noMatchesOutline": "#ffffff7f",
+		"statusBar.foreground": "#ffffff7f",
+		"statusBar.background": "#000000",
+		"statusBarItem.hoverForeground": "#ffffff",
+		"statusBar.border": "#000000",
+		"statusBarItem.remoteBackground": "#000000",
+		"statusBarItem.remoteForeground": "#ffffff7f",
+		"statusBarItem.remoteHoverForeground": "#ffffff"
 	},
 	"tokenColors": [
 		{
