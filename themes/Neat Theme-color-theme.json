@@ -54,7 +54,13 @@
 		"menu.selectionBorder": "#000000",
 		"menu.separatorBackground": "#000000",
 		"menu.border": "#000000",
-		
+		"button.background": "#000000",
+		"button.foreground": "#ffffff",
+		"button.hoverBackground": "#000000",
+		"button.secondaryBackground": "#000000",
+		"button.secondaryForeground": "#ffffff",
+		"button.secondaryHoverBackground": "#000000",
+
 	},
 	"tokenColors": [
 		{
