@@ -67,6 +67,17 @@
 		"inputOption.activeBackground": "#000000",
 		"inputOption.activeBorder": "#000000",
 		"inputOption.activeForeground": "#ffffff",
+		"panel.background": "#000000",
+		"panel.border": "#000000",
+		"panelTitle.activeBorder": "#000000",
+		"panelTitle.activeForeground": "#ffffff",
+		"panelTitle.inactiveForeground": "#ffffff7f",
+		"terminal.selectionBackground": "#000000",
+		"terminalCursor.foreground": "#ffffff",
+		"terminalCursor.background": "#ffffff",
+		"badge.background": "#000000",
+		"badge.foreground": "#ffffff",
+		"terminal.border": "#ffffff",
 	},
 	"tokenColors": [
 		{
