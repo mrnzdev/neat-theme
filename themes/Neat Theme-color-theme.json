@@ -39,7 +39,22 @@
 		"statusBar.border": "#000000",
 		"statusBarItem.remoteBackground": "#000000",
 		"statusBarItem.remoteForeground": "#ffffff7f",
-		"statusBarItem.remoteHoverForeground": "#ffffff"
+		"statusBarItem.remoteHoverForeground": "#ffffff",
+		"titleBar.activeBackground": "#000000",
+		"titleBar.activeForeground": "#ffffff",
+		"titleBar.inactiveBackground": "#000000",
+		"titleBar.inactiveForeground": "#ffffff",
+		"menubar.selectionForeground": "#ffffff",
+		"menubar.selectionBackground": "#000000",
+		"menubar.selectionBorder": "#000000",
+		"menu.foreground": "#ffffff7f",
+		"menu.background": "#000000",
+		"menu.selectionForeground": "#ffffff",
+		"menu.selectionBackground": "#000000",
+		"menu.selectionBorder": "#000000",
+		"menu.separatorBackground": "#000000",
+		"menu.border": "#000000",
+		
 	},
 	"tokenColors": [
 		{
