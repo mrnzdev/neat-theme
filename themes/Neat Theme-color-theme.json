@@ -111,7 +111,16 @@
 		"notificationsInfoIcon.foreground": "#ffffff7f",
 		"notificationCenterHeader.foreground": "#ffffff",
 		"notificationCenterHeader.background": "#000000",
-		"notificationCenter.border": "#000000"
+		"notificationCenter.border": "#000000",
+		"gitDecoration.addedResourceForeground": "#00ff007f",
+		"gitDecoration.conflictingResourceForeground": "#ffa5007f",
+		"gitDecoration.deletedResourceForeground": "#ff00007f",
+		"gitDecoration.ignoredResourceForeground": "#ffffff7f",
+		"gitDecoration.modifiedResourceForeground": "#ffff007f",
+		"gitDecoration.stageDeletedResourceForeground": "#ff00007f",
+		"gitDecoration.stageModifiedResourceForeground": "#ffff007f",
+		"gitDecoration.submoduleResourceForeground": "#ffffff7f",
+		"gitDecoration.untrackedResourceForeground": "#ffffff7f",
 	},
 	"tokenColors": [
 		{
