@@ -175,7 +175,11 @@
 		"diffEditor.removedTextBackground": "#111111",
 		"diffEditor.removedTextBorder": "#00000000",
 		"diffEditor.border": "#000000",
-		
+		"editorSuggestWidget.background": "#1d1d1d",
+		"editorSuggestWidget.border": "#434343",
+		"editorSuggestWidget.foreground": "#ffffff7f",
+		"editorSuggestWidget.highlightForeground": "#ffffff",
+		"editorSuggestWidget.selectedBackground": "#434343",
 	},
 	"tokenColors": [
 		{
