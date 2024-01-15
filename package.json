@@ -15,7 +15,7 @@
 			{
 				"label": "Neat Theme",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Neat-theme-color-theme"
+				"path": "themes/neat-theme.json"
 			}
 		]
 	},

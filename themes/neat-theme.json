@@ -180,6 +180,10 @@
 		"editorSuggestWidget.foreground": "#ffffff7f",
 		"editorSuggestWidget.highlightForeground": "#ffffff",
 		"editorSuggestWidget.selectedBackground": "#434343",
+		"editorHoverWidget.foreground": "#ffffff7f",
+		"editorHoverWidget.background": "#1d1d1d",
+		"editorHoverWidget.border": "#434343",
+		"editor.foreground": "#ffffff7f"
 	},
 	"tokenColors": [
 		{
