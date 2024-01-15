@@ -1,5 +1,6 @@
 {
 	"name": "Neat Theme",
+	"type": "dark",
 	"colors": {
 		"foreground": "#ffffff",
 		"focusBorder": "#000000",
@@ -40,6 +41,7 @@
 		"statusBarItem.remoteBackground": "#000000",
 		"statusBarItem.remoteForeground": "#ffffff7f",
 		"statusBarItem.remoteHoverForeground": "#ffffff",
+		"statusBar.noFolderBackground": "#000000",
 		"titleBar.activeBackground": "#000000",
 		"titleBar.activeForeground": "#ffffff",
 		"titleBar.inactiveBackground": "#000000",

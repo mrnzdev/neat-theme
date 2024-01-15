@@ -1,9 +1,10 @@
 {
 	"name": "neat-theme",
 	"displayName": "Neat Theme",
-	"description": "A sleek black and white colot theme.",
-	"version": "0.0.1",
+	"description": "A sleek black and white color theme.",
+	"author": "mrnz",
 	"publisher": "mrnz",
+	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.85.0"
 	},
@@ -15,18 +16,13 @@
 			{
 				"label": "Neat Theme",
 				"uiTheme": "vs-dark",
-				"path": "themes/neat-theme.json"
+				"path": "./themes/neat-theme.json"
 			}
 		]
 	},
-	"galleryBanner": {
-		"color": "#000000",
-		"theme": "dark"
-	},
-	"icon": "images/mrnz-icon.png",
-	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": ""
-	}
+		"url": "https://github.com/mrnzdev/neat-theme"
+	},
+  "license": "MIT"
 }
