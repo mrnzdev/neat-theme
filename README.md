@@ -27,6 +27,6 @@ If you'd like to contribute to the development of Neat Theme, please fork the re
 
 ## License
 
-This project is licensed under the terms of the MIT license. See the [LICENSE](LICENSE.txt) file for the full license text.
+This project is licensed under the terms of the MIT license. See the [LICENSE](https://github.com/mrnzdev/neat-theme/blob/main/LICENSE) file for the full license text.
 
 **Enjoy!**
