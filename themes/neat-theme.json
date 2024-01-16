@@ -26,7 +26,7 @@
 		"list.hoverForeground": "#ffffff",
 		"list.activeSelectionBackground": "#000000",
 		"list.activeSelectionForeground": "#ffffff",
-		"tree.indentGuidesStroke": "#ffffff",
+		"tree.indentGuidesStroke": "#00000000",
 		"list.dropBackground": "#000000",
 		"list.highlightForeground": "#ffffff",
 		"list.focusBackground": "#000000",
@@ -56,12 +56,12 @@
 		"menu.selectionBorder": "#000000",
 		"menu.separatorBackground": "#000000",
 		"menu.border": "#000000",
-		"button.background": "#000000",
-		"button.foreground": "#ffffff",
-		"button.hoverBackground": "#000000",
-		"button.secondaryBackground": "#000000",
-		"button.secondaryForeground": "#ffffff",
-		"button.secondaryHoverBackground": "#000000",
+		"button.background": "#060606",
+		"button.foreground": "#ffffff7f",
+		"button.hoverBackground": "#060606",
+		"button.secondaryBackground": "#060606",
+		"button.secondaryForeground": "#ffffff7f",
+		"button.secondaryHoverBackground": "#060606",
 		"input.background": "#000000",
 		"input.foreground": "#ffffff",
 		"input.border": "#000000",
@@ -534,7 +534,7 @@
 				"support.variable"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#ffffff7f"
 			}
 		},
 		{
@@ -544,7 +544,7 @@
 				"meta.object-literal.key entity.name.function"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#ffffff7f"
 			}
 		},
 		{
@@ -560,6 +560,12 @@
 			],
 			"settings": {
 				"foreground": "#ffffff"
+			}
+		},
+		{
+			"scope": "string.quoted.double.json",
+			"settings": {
+				"foreground": "#ffffff7f"
 			}
 		}
 	]
