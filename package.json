@@ -4,7 +4,7 @@
 	"description": "A sleek black and white color theme.",
 	"author": "mrnzdev",
 	"publisher": "mrnzdev",
-	"version": "0.0.5",
+	"version": "0.0.6",
 	"engines": {
 		"vscode": "^1.85.0"
 	},
