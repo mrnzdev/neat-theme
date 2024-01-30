@@ -19,7 +19,7 @@ After installation, you can switch to the Neat Theme by opening the Command Pale
 
 ## Screenshots
 
-Include some screenshots of your theme here.
+![Screenshot of Neat Theme](https://github.com/mrnzdev/neat-theme/blob/main/images/neat-theme-screenshot.png)
 
 ## Contributing
 
