@@ -1,6 +1,10 @@
-# Neat Theme for Visual Studio Code
+# Neat Theme
 
-Neat Theme is a sleek black and white color theme for Visual Studio Code.
+Neat Theme is a sleek black color theme for Visual Studio Code.
+
+## Theme Screenshot
+
+![Screenshot of Neat Theme](https://github.com/mrnzdev/neat-theme/blob/main/images/neat-theme-screenshot.png?raw=true)
 
 ## Features
 
@@ -16,10 +20,6 @@ Neat Theme is a sleek black and white color theme for Visual Studio Code.
 ## Usage
 
 After installation, you can switch to the Neat Theme by opening the Command Palette `Ctrl+Shift+P` (Windows, Linux) or `Cmd+Shift+P` (macOS) and select `Preferences: Color Theme`, then choose `Neat Theme`.
-
-## Screenshots
-
-![Screenshot of Neat Theme](https://github.com/mrnzdev/neat-theme/blob/main/images/neat-theme-screenshot.png?raw=true)
 
 ## Contributing
 
